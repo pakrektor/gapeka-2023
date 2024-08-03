@@ -14,36 +14,3 @@
     }
   }
 }
-{
-  "infoka": {
-    "KA": {
-      "No": "2",
-      "URUTKA": "2",
-      "JenisPerjalanan": "Reguler",
-      "NamaKeretaApi": "Argo Bromo Anggrek",
-      "LintasPelayanan": "GMR - SBI",
-      "BadanUsahaPenyelenggaraSarana": "PT. KAI",
-      "Jarak": "720.1",
-      "Berangkat": "08.20",
-      "Datang": "16.25",
-      "WaktuPerjalanan": "08.05"
-    }
-  }
-}
-
-{
-  "infoka": {
-    "KA": {
-      "No": "3",
-      "URUTKA": "3",
-      "JenisPerjalanan": "Reguler",
-      "NamaKeretaApi": "Argo Bromo Anggrek",
-      "LintasPelayanan": "SBI - GMR",
-      "BadanUsahaPenyelenggaraSarana": "PT. KAI",
-      "Jarak": "720.1",
-      "Berangkat": "21.15",
-      "Datang": "05.20",
-      "WaktuPerjalanan": "08.05"
-    }
-  }
-}
