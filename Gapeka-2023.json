@@ -11,13 +11,7 @@
       "Berangkat": "09.10",
       "Datang": "17.15",
       "WaktuPerjalanan": "08.05"
-    }
-  }
-}
 
-{
-  "infoka": {
-    "KA": {
       "No": "2",
       "URUTKA": "2",
       "JenisPerjalanan": "Reguler",
@@ -28,13 +22,7 @@
       "Berangkat": "08.20",
       "Datang": "16.25",
       "WaktuPerjalanan": "08.05"
-    }
-  }
-}
 
-{
-  "infoka": {
-    "KA": {
       "No": "3",
       "URUTKA": "3",
       "JenisPerjalanan": "Reguler",
@@ -45,12 +33,7 @@
       "Berangkat": "21.15",
       "Datang": "05.20",
       "WaktuPerjalanan": "08.05"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "4",
       "URUTKA": "4",
       "JenisPerjalanan": "Reguler",
@@ -61,12 +44,7 @@
       "Berangkat": "20.30",
       "Datang": "04.35",
       "WaktuPerjalanan": "08.05"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "5",
       "URUTKA": "5",
       "JenisPerjalanan": "Reguler",
@@ -77,12 +55,7 @@
       "Berangkat": "06.15",
       "Datang": "18.08",
       "WaktuPerjalanan": "09.53"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "6",
       "URUTKA": "6",
       "JenisPerjalanan": "Reguler",
@@ -93,12 +66,7 @@
       "Berangkat": "07.40",
       "Datang": "17.35",
       "WaktuPerjalanan": "09.55"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "7",
       "URUTKA": "7",
       "JenisPerjalanan": "Reguler",
@@ -109,12 +77,7 @@
       "Berangkat": "08.30",
       "Datang": "15.30",
       "WaktuPerjalanan": "07.00"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "8",
       "URUTKA": "8",
       "JenisPerjalanan": "Reguler",
@@ -125,12 +88,7 @@
       "Berangkat": "20.45",
       "Datang": "03.40",
       "WaktuPerjalanan": "06.55"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "9",
       "URUTKA": "9",
       "JenisPerjalanan": "Reguler",
@@ -141,12 +99,7 @@
       "Berangkat": "20.30",
       "Datang": "03.30",
       "WaktuPerjalanan": "07.00"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "10",
       "URUTKA": "10",
       "JenisPerjalanan": "Reguler",
@@ -157,12 +110,7 @@
       "Berangkat": "08.50",
       "Datang": "15.50",
       "WaktuPerjalanan": "07.00"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "11",
       "URUTKA": "11",
       "JenisPerjalanan": "Reguler",
@@ -173,12 +121,7 @@
       "Berangkat": "07.00",
       "Datang": "12.10",
       "WaktuPerjalanan": "05.10"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "12",
       "URUTKA": "12",
       "JenisPerjalanan": "Reguler",
@@ -189,12 +132,7 @@
       "Berangkat": "17.40",
       "Datang": "22.50",
       "WaktuPerjalanan": "05.10"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "13",
       "URUTKA": "13",
       "JenisPerjalanan": "Reguler",
@@ -205,12 +143,7 @@
       "Berangkat": "22.40",
       "Datang": "03.35",
       "WaktuPerjalanan": "05.15"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "14",
       "URUTKA": "14",
       "JenisPerjalanan": "Reguler",
@@ -221,14 +154,9 @@
       "Berangkat": "17.00",
       "Datang": "22.05",
       "WaktuPerjalanan": "05.05"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
-      "No": "15,
-      "URUTKA": 15",
+    
+      "No": "15",
+      "URUTKA": "15",
       "JenisPerjalanan": "Reguler",
       "NamaKeretaApi": "Argo Muria",
       "LintasPelayanan": "GMR - SMT",
@@ -237,12 +165,7 @@
       "Berangkat": "16.42",
       "Datang": "22.00",
       "WaktuPerjalanan": "05.10"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "16",
       "URUTKA": "16",
       "JenisPerjalanan": "Reguler",
@@ -253,12 +176,7 @@
       "Berangkat": "04.00",
       "Datang": "09.35",
       "WaktuPerjalanan": "05.15"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "17",
       "URUTKA": "17",
       "JenisPerjalanan": "Reguler",
@@ -269,12 +187,7 @@
       "Berangkat": "09.25",
       "Datang": "19.40",
       "WaktuPerjalanan": "10.35"
-    }
-  }
-}
-{
-  "infoka": {
-    "KA": {
+    
       "No": "18",
       "URUTKA": "18",
       "JenisPerjalanan": "Reguler",
