@@ -1,16 +1,16 @@
 {
-"infoka": {
-      "No": "1"
-      "URUT KA": "1"
+  "infoka": {
+    "KA": {
+      "No": 1,
+      "URUT KA": 1,
       "Jenis Perjalanan": "Reguler",
       "Nama Kereta Api": "Argo Bromo Anggrek",
       "Lintas Pelayanan": "SBI - GMR",
       "Badan Usaha Penyelenggara Sarana": "PT. KAI",
-      "Jarak (km)": 720.1,
+      "Jarak (km)": "720.1",
       "Berangkat": "09.10",
       "Datang": "17.15",
       "Waktu Perjalanan": "08.05"
-        }
+    }
+  }
 }
-
-   
