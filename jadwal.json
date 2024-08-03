@@ -1,0 +1,599 @@
+{
+  "KA 1 (Argo Bromo Anggrek) Relasi SBI-GMR": [
+    {
+      "No": 1,
+      "Stasiun dan Perhentian": "Surabaya Pasarturi (SBI)",
+      "Datang": "",
+      "Berangkat": "09:10:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 2,
+      "Stasiun dan Perhentian": "Tandes (TES)",
+      "Datang": "Ls",
+      "Berangkat": "09:15:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 3,
+      "Stasiun dan Perhentian": "Kandangan (KDA)",
+      "Datang": "Ls",
+      "Berangkat": "09:17:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 4,
+      "Stasiun dan Perhentian": "Benowo (BNW)",
+      "Datang": "Ls",
+      "Berangkat": "09:20:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 5,
+      "Stasiun dan Perhentian": "Cerme (CME)",
+      "Datang": "Ls",
+      "Berangkat": "09:23:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 6,
+      "Stasiun dan Perhentian": "Duduk (DD)",
+      "Datang": "Ls",
+      "Berangkat": "09:29:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 7,
+      "Stasiun dan Perhentian": "Lamongan (LMG)",
+      "Datang": "Ls",
+      "Berangkat": "09:37:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 8,
+      "Stasiun dan Perhentian": "Surabayan (SBN)",
+      "Datang": "Ls",
+      "Berangkat": "09:42:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 9,
+      "Stasiun dan Perhentian": "Pucuk (PC)",
+      "Datang": "Ls",
+      "Berangkat": "09:48:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 10,
+      "Stasiun dan Perhentian": "Gembong (GEB)",
+      "Datang": "Ls",
+      "Berangkat": "09:51:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 11,
+      "Stasiun dan Perhentian": "Babat (BBT)",
+      "Datang": "Ls",
+      "Berangkat": "09:55:00",
+      "Keterangan": "// KA 2703 (KA 2703 =)"
+    },
+    {
+      "No": 12,
+      "Stasiun dan Perhentian": "Bowerno (BWO)",
+      "Datang": "Ls",
+      "Berangkat": "10:01:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 13,
+      "Stasiun dan Perhentian": "Sumberrejo (SRJ)",
+      "Datang": "Ls",
+      "Berangkat": "10:09:00",
+      "Keterangan": "// KA 441 (KA 441 =)"
+    },
+    {
+      "No": 14,
+      "Stasiun dan Perhentian": "Kapas (KPS)",
+      "Datang": "Ls",
+      "Berangkat": "10:14:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 15,
+      "Stasiun dan Perhentian": "Bojonegoro (BJ)",
+      "Datang": "10:19:00",
+      "Berangkat": "10:21:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 16,
+      "Stasiun dan Perhentian": "Kalitidu (KIT)",
+      "Datang": "Ls",
+      "Berangkat": "10:31:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 17,
+      "Stasiun dan Perhentian": "Tobo (TBO)",
+      "Datang": "Ls",
+      "Berangkat": "10:40:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 18,
+      "Stasiun dan Perhentian": "Cepu (CU)",
+      "Datang": "Ls",
+      "Berangkat": "10:46:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 19,
+      "Stasiun dan Perhentian": "Kapuan (KPA)",
+      "Datang": "Ls",
+      "Berangkat": "10:49:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 20,
+      "Stasiun dan Perhentian": "Wadu (WDU)",
+      "Datang": "Ls",
+      "Berangkat": "10:53:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 21,
+      "Stasiun dan Perhentian": "Randublatung (RBG)",
+      "Datang": "Ls",
+      "Berangkat": "11:01:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 22,
+      "Stasiun dan Perhentian": "Doplang (DPL)",
+      "Datang": "Ls",
+      "Berangkat": "11:10:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 23,
+      "Stasiun dan Perhentian": "Sulur (SL)",
+      "Datang": "Ls",
+      "Berangkat": "11:15:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 24,
+      "Stasiun dan Perhentian": "Kradenan (KNN)",
+      "Datang": "Ls",
+      "Berangkat": "11:20:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 25,
+      "Stasiun dan Perhentian": "Panunggalan (PNL)",
+      "Datang": "Ls",
+      "Berangkat": "11:27:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 26,
+      "Stasiun dan Perhentian": "Jambon (JBN)",
+      "Datang": "Ls",
+      "Berangkat": "11:31:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 27,
+      "Stasiun dan Perhentian": "Gambringan (GBN)",
+      "Datang": "Ls",
+      "Berangkat": "11:38:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 28,
+      "Stasiun dan Perhentian": "Ngrombo (NBO)",
+      "Datang": "Ls",
+      "Berangkat": "11:39:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 29,
+      "Stasiun dan Perhentian": "Sedadi (SDI)",
+      "Datang": "Ls",
+      "Berangkat": "11:42:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 30,
+      "Stasiun dan Perhentian": "Karangjati (KGT)",
+      "Datang": "Ls",
+      "Berangkat": "11:47:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 31,
+      "Stasiun dan Perhentian": "Gubug (GUB)",
+      "Datang": "Ls",
+      "Berangkat": "11:54:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 32,
+      "Stasiun dan Perhentian": "Tegowanu (TGW)",
+      "Datang": "Ls",
+      "Berangkat": "11:58:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 33,
+      "Stasiun dan Perhentian": "Brumbung (BBG)",
+      "Datang": "Ls",
+      "Berangkat": "12:03:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 34,
+      "Stasiun dan Perhentian": "Alastua (ATA)",
+      "Datang": "Ls",
+      "Berangkat": "12:07:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 35,
+      "Stasiun dan Perhentian": "Semarang Tawang (SMT)",
+      "Datang": "12:14:00",
+      "Berangkat": "12:17:00",
+      "Keterangan": "// KA 2509 (KA 2509 =)"
+    },
+    {
+      "No": 36,
+      "Stasiun dan Perhentian": "Semarang Poncol (SMC)",
+      "Datang": "Ls",
+      "Berangkat": "12:22:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 37,
+      "Stasiun dan Perhentian": "Jerakah (JRK)",
+      "Datang": "Ls",
+      "Berangkat": "12:26:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 38,
+      "Stasiun dan Perhentian": "Mangkang (MKG)",
+      "Datang": "Ls",
+      "Berangkat": "12:30:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 39,
+      "Stasiun dan Perhentian": "Kaliwungu (KLN)",
+      "Datang": "Ls",
+      "Berangkat": "12:34:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 40,
+      "Stasiun dan Perhentian": "Kalibodri (KBD)",
+      "Datang": "Ls",
+      "Berangkat": "12:41:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 41,
+      "Stasiun dan Perhentian": "Weleri (WLR)",
+      "Datang": "Ls",
+      "Berangkat": "12:47:00",
+      "Keterangan": "// KA 2733F JJ (KA 2733F JJ =)"
+    },
+    {
+      "No": 42,
+      "Stasiun dan Perhentian": "Krengseng (KNS)",
+      "Datang": "Ls",
+      "Berangkat": "12:50:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 43,
+      "Stasiun dan Perhentian": "Plabuan (PLB)",
+      "Datang": "Ls",
+      "Berangkat": "12:56:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 44,
+      "Stasiun dan Perhentian": "Kuripan (KRP)",
+      "Datang": "Ls",
+      "Berangkat": "13:01:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 45,
+      "Stasiun dan Perhentian": "Ujungnegoro (UJN)",
+      "Datang": "Ls",
+      "Berangkat": "13:09:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 46,
+      "Stasiun dan Perhentian": "Batang (BTG)",
+      "Datang": "Ls",
+      "Berangkat": "13:12:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 47,
+      "Stasiun dan Perhentian": "Pekalongan (PK)",
+      "Datang": "13:20:00",
+      "Berangkat": "13:22:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 48,
+      "Stasiun dan Perhentian": "Sragi (SRD)",
+      "Datang": "Ls",
+      "Berangkat": "13:31:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 49,
+      "Stasiun dan Perhentian": "Comal (CO)",
+      "Datang": "Ls",
+      "Berangkat": "13:33:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 50,
+      "Stasiun dan Perhentian": "Petarukan (PTA)",
+      "Datang": "Ls",
+      "Berangkat": "13:38:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 51,
+      "Stasiun dan Perhentian": "Pemalang (PML)",
+      "Datang": "Ls",
+      "Berangkat": "13:42:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 52,
+      "Stasiun dan Perhentian": "Surodadi (SD)",
+      "Datang": "Ls",
+      "Berangkat": "13:48:30",
+      "Keterangan": "// KA 2515 (KA 2515 =)"
+    },
+    {
+      "No": 53,
+      "Stasiun dan Perhentian": "Larangan (LR)",
+      "Datang": "Ls",
+      "Berangkat": "13:54:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 54,
+      "Stasiun dan Perhentian": "Tegal (TG)",
+      "Datang": "Ls",
+      "Berangkat": "13:58:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 55,
+      "Stasiun dan Perhentian": "Brebes (BB)",
+      "Datang": "Ls",
+      "Berangkat": "14:05:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 56,
+      "Stasiun dan Perhentian": "Tanjung (TGN)",
+      "Datang": "Ls",
+      "Berangkat": "14:16:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 57,
+      "Stasiun dan Perhentian": "Losari (LOS)",
+      "Datang": "Ls",
+      "Berangkat": "14:21:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 58,
+      "Stasiun dan Perhentian": "Babakan (BBK)",
+      "Datang": "Ls",
+      "Berangkat": "14:26:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 59,
+      "Stasiun dan Perhentian": "Waruduwur (WDW)",
+      "Datang": "Ls",
+      "Berangkat": "14:33:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 60,
+      "Stasiun dan Perhentian": "Cirebon Prujakan (CNP)",
+      "Datang": "Ls",
+      "Berangkat": "14:39:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 61,
+      "Stasiun dan Perhentian": "Cirebon (CN)",
+      "Datang": "14:42:00",
+      "Berangkat": "14:45:00",
+      "Keterangan": "// KA 27 (KA 27 =)"
+    },
+    {
+      "No": 62,
+      "Stasiun dan Perhentian": "Cangkring (CNK)",
+      "Datang": "Ls",
+      "Berangkat": "14:51:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 63,
+      "Stasiun dan Perhentian": "Bangoduwa (BDW)",
+      "Datang": "Ls",
+      "Berangkat": "14:54:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 64,
+      "Stasiun dan Perhentian": "Arjawinangun (AWN)",
+      "Datang": "Ls",
+      "Berangkat": "14:57:00",
+      "Keterangan": "// KA 2521 (KA 2521 =)"
+    },
+    {
+      "No": 65,
+      "Stasiun dan Perhentian": "Kertasemaya (KTM)",
+      "Datang": "Ls",
+      "Berangkat": "15:06:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 66,
+      "Stasiun dan Perhentian": "Jatibarang (JTB)",
+      "Datang": "Ls",
+      "Berangkat": "15:12:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 67,
+      "Stasiun dan Perhentian": "Telagasari (TLS)",
+      "Datang": "Ls",
+      "Berangkat": "15:19:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 68,
+      "Stasiun dan Perhentian": "Terisi (TIS)",
+      "Datang": "Ls",
+      "Berangkat": "15:24:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 69,
+      "Stasiun dan Perhentian": "Kadokangabus (KAB)",
+      "Datang": "Ls",
+      "Berangkat": "15:27:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 70,
+      "Stasiun dan Perhentian": "Cilegeh (CLH)",
+      "Datang": "Ls",
+      "Berangkat": "15:32:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 71,
+      "Stasiun dan Perhentian": "Haurgeulis (HGL)",
+      "Datang": "Ls",
+      "Berangkat": "15:38:30",
+      "Keterangan": ""
+    },
+    {
+      "No": 72,
+      "Stasiun dan Perhentian": "Cipunegara (CRA)",
+      "Datang": "Ls",
+      "Berangkat": "15:42:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 73,
+      "Stasiun dan Perhentian": "Pegadenbaru (PGB)",
+      "Datang": "Ls",
+      "Berangkat": "15:46:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 74,
+      "Stasiun dan Perhentian": "Cikaum (CKM)",
+      "Datang": "Ls",
+      "Berangkat": "15:51:00",
+      "Keterangan": "// KA 2527 (KA 2527 =)"
+    },
+    {
+      "No": 75,
+      "Stasiun dan Perhentian": "Pasirbungur (PAS)",
+      "Datang": "Ls",
+      "Berangkat": "15:54:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 76,
+      "Stasiun dan Perhentian": "Pringkasap (PRI)",
+      "Datang": "Ls",
+      "Berangkat": "15:58:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 77,
+      "Stasiun dan Perhentian": "Pabuaran (PAB)",
+      "Datang": "Ls",
+      "Berangkat": "16:01:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 78,
+      "Stasiun dan Perhentian": "Tanjungrasa (TJS)",
+      "Datang": "Ls",
+      "Berangkat": "16:04:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 79,
+      "Stasiun dan Perhentian": "Cikampek (CKP)",
+      "Datang": "Ls",
+      "Berangkat": "16:11:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 80,
+      "Stasiun dan Perhentian": "Dawuan (DWN)",
+      "Datang": "Ls",
+      "Berangkat": "16:14:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 81,
+      "Stasiun dan Perhentian": "Kosambi (KOS)",
+      "Datang": "Ls",
+      "Berangkat": "16:19:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 82,
+      "Stasiun dan Perhentian": "Klari (KLI)",
+      "Datang": "Ls",
+      "Berangkat": "16:21:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 83,
+      "Stasiun dan Perhentian": "Karawang (KW)",
+      "Datang": "Ls",
+      "Berangkat": "16:25:00",
+      "Keterangan": ""
+    },
+    {
+      "No": 84,
+      "Stasiun dan Perhentian": "Cikampek (CKP)",
+      "Datang": "16:45:00",
+      "Berangkat": "16:50:00",
+      "Keterangan": "// KA 63 (KA 63 =)"
+    },
+    {
+      "No": 85,
+      "Stasiun dan Perhentian": "Jakarta Gambir (GMR)",
+      "Datang": "19:25:00",
+      "Berangkat": "",
+      "Keterangan": ""
+    }
+  ]
+}
